@@ -10,4 +10,4 @@
 - 📫 How to reach me: binyam.tagel@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin-ym)](https://github.com/anuraghazra/github-readme-stats)
+[![Bin-ym's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin-ym&private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bin-ym/github-readme-stats)
