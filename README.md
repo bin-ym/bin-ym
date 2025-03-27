@@ -4,8 +4,6 @@
 **It is bin-ym**
 
 
-
-- 🔭 I’m currently working on a final-year project
 - 🌱 I’m currently learning React
 - 📫 How to reach me: binyam.tagel@gmail.com
 
