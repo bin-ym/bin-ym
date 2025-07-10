@@ -4,7 +4,7 @@
 **It is bin-ym**
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working at BT Creative
 - 📫 How to reach me: binyam.tagel@gmail.com
 
 
