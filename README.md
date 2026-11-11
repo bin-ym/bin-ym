@@ -4,7 +4,7 @@
 **It is bin-ym**
 
 
-- 🌱 I’m currently working at BT Creative
+- 🌱 I’m currently working at Ella-Tech
 - 📫 How to reach me: binyam.tagel@gmail.com
 
 
